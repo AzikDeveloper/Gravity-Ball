@@ -9,6 +9,7 @@ TagManager:
   - teleporter_blue1
   - red_enemy
   - ExplodeButton
+  - finishChecker
   layers:
   - Default
   - TransparentFX
