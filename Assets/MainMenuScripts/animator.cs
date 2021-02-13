@@ -7,6 +7,6 @@ public class animator : MonoBehaviour
     public float rotSpeed = 10f;
     void Update()
     {
-        transform.Rotate(0.1f * rotSpeed * Time.deltaTime, 0f, 0f);
+        transform.Rotate(0.1f * rotSpeed * Time.deltaTime,  rotSpeed * Time.deltaTime, -0.1f * rotSpeed * Time.deltaTime);
     }
 }
