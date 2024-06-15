@@ -1,1 +1,1 @@
-**Gravity Ball** by SYSTUFF
+**Gravity Ball**
